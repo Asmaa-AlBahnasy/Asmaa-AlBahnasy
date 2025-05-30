@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Asmaa Ashraf Bahnasy</h1>
-<h3 align="center">🌀 AI Researcher </h3>
+<h3 align="center">🌀 AI Egineer </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Asmaa-AlBahnasy
@@ -85,7 +85,7 @@ I think AI should be as creative(hallocinuate) as it is intelligent! ✨
   <!-- Top languages at the top (smallest) -->
   <div class="stat-item small">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-El-Zainy&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmaa-AlBahnasy&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
       alt="Top Languages" 
     />
   </div>
@@ -93,10 +93,10 @@ I think AI should be as creative(hallocinuate) as it is intelligent! ✨
   <!-- GitHub stats (middle, bigger) -->
   <div class="stat-item medium">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=Ahmed-El-Zainy&show_icons=true&theme=gotham" 
+      src="https://github-readme-stats.vercel.app/api?username=Asmaa-AlBahnasy&show_icons=true&theme=gotham" 
       alt="GitHub stats" 
     />
   </div>
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ahmed-El-Zainy&theme=gotham&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Asmaa-AlBahnasy&theme=gotham&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
