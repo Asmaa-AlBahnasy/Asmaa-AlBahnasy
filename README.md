@@ -3,9 +3,10 @@
 <h3 align="center">🌀 AI Researcher </h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-El-Zainy&label=Profile%20views&color=0e75b6&style=gruvbox" alt="Ahmed-El-Zainy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Asmaa-AlBahnasy
+&label=Profile%20views&color=0e75b6&style=gruvbox" alt="Asmaa-AlBahnasy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmed-El-Zainy&theme=onedark&row=1&column=9" alt="Ahmed-El-Zainy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Asmaa-AlBahnasy&theme=onedark&row=1&column=9" alt="Asmaa-AlBahnasy" /></a> </p>
 
 
 ---
