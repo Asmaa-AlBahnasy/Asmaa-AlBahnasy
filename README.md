@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Asmaa Ashraf Bahnasy</h1>
-<h3 align="center">🌀 AI Egineer </h3>
+<h3 align="center">🌀 AI Engineer </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Asmaa-AlBahnasy
